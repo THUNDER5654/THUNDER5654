@@ -1,9 +1,5 @@
-# 👋 Hi, I'm **Ravi Ranjan**
+<img width="6000" height="400" alt="image" src="https://github.com/user-attachments/assets/2d9384c1-17e9-46cc-b22e-506155700bde" />
 
-<p align="left">
-  <!-- Typing-style GIF that mimics name being typed -->
-  <img src="https://media.giphy.com/media/l3vR4GeYI1Kk7WvA0/giphy.gif" width="260" alt="typing name: My name is Ravi Ranjan"/>
-</p>
 
 ### 😎 *Professional Bug Creator | Student Developer | Full-Time Procrastinator*
 
@@ -13,7 +9,7 @@ I build things… and then spend twice the time debugging them.
 ---
 
 ## 🚀 About Me  
-- 🎓 BTech CSE (AI & ML) @ **Galgotias University**  
+- 🎓 BTech CSE (AI & ML)
 - 💻 Learning: Java • Python • AI/ML • DSA  
 - 🐛 Known for creating bugs faster than fixing them  
 - ⚡ Fun Fact: My code works **on my machine only**  
@@ -38,14 +34,6 @@ I build things… and then spend twice the time debugging them.
 
 ---
 
-## 📊 GitHub Stats  
-
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=THUNDER5654&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THUNDER5654&layout=compact&theme=tokyonight)
-
----
-
 ## 🧩 Random Dev Quote  
 > “Programming isn’t about what you know; it’s about what you *can Google*.”
 
@@ -57,4 +45,6 @@ I build things… and then spend twice the time debugging them.
 
 ---
 
-*Made with caffeine, StackOverflow, and a lot of “Did I just break everything?” moments.*
+<p align="center">  
+  *Made with caffeine, StackOverflow, and a lot of “Did I just break everything?” moments.*
+</p>
