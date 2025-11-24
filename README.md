@@ -1,9 +1,6 @@
 # 👋 Hi, I'm **Ravi Ranjan**
 
 <p align="left">
-  <!-- Funny cartoon intro GIF -->
-  <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="240" alt="cartoon introduction"/><br>
-
   <!-- Typing-style GIF that mimics name being typed -->
   <img src="https://media.giphy.com/media/l3vR4GeYI1Kk7WvA0/giphy.gif" width="260" alt="typing name: My name is Ravi Ranjan"/>
 </p>
