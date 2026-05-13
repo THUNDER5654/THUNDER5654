@@ -1,4 +1,4 @@
-<img width="6000" height="400" alt="image" src="https://github.com/user-attachments/assets/2d9384c1-17e9-46cc-b22e-506155700bde" />
+<img width="6000" height="1000" alt="image" src="https://github.com/user-attachments/assets/2d9384c1-17e9-46cc-b22e-506155700bde" />
 
 
 ### 😎 *Professional Bug Creator | Student Developer | Full-Time Procrastinator*
